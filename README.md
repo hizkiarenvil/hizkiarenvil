@@ -1,16 +1,6 @@
-### Hi there 👋
+# 💫 About Me:
+Hobbies : Travelling✈️ , Anime🎭  , Software Engineering💸<br>Interests : Data Engineering📊, Cloud Technologies☁️, Software Development , AI Research 
 
-<!--
-**hizkiarenvil/hizkiarenvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning Hadoop Ecosystem and Cloud Data Warehousing
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/renvils_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hizkia-sekeon/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@renvils) 
